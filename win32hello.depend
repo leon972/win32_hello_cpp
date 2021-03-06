@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1196794520 source:c:\projects\cpp\win32hello\main.cpp
+	<windows.h>
+
